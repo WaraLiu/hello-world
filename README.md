@@ -1,6 +1,6 @@
 # hello-world
 
-Hey men/women
+Hey men
 
 Life is too short
 
